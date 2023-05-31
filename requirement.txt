@@ -1,0 +1,17 @@
+boto3
+botocore
+awscli
+
+nltk
+flair
+#conda install sickit-learn
+sklearn
+sklearn_pandas
+pandas
+numpy
+matplotlib
+
+requests
+
+
+plotnine
